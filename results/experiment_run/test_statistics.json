@@ -1,0 +1,13 @@
+{
+    "Freight Charges": {
+        "loss": 351644712960.0,
+        "mean_absolute_error": 66978.09375,
+        "mean_squared_error": 351644712960.0,
+        "r2": 0.6283971071243286,
+        "root_mean_squared_error": 592995.5,
+        "root_mean_squared_percentage_error": Infinity
+    },
+    "combined": {
+        "loss": 351644712960.0
+    }
+}

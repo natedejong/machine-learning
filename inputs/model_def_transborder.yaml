@@ -1,0 +1,39 @@
+input_features:
+    -
+        name: Trade Type
+        type: category
+    -
+        name: Port Code
+        type: category
+    -
+        name: Commodity Code
+        type: category
+    -
+        name: Mode of Transportation
+        type: category
+    -
+        name: Country
+        type: category
+    -
+        name: Value in US Dollars
+        type: numerical
+    -
+        name: Shipping Weight in Kilograms
+        type: numerical
+    -
+        name: Domestic - Foreign Code
+        type: category
+    -
+        name: Container Code
+        type: category
+    -
+        name: Month
+        type: numerical
+    -
+        name: Year
+        type: numerical
+
+output_features:
+    -
+        name: Freight Charges
+        type: numerical
